@@ -1,3 +1,11 @@
+Carlos Pabon notes 3/10/2019
+I solved the challenge and took the following approach:
+1- Used Jasmine tests to confirm all requirements were met
+2- Followed existing pattern of using hardcoded names. For example, the requirements have rules around "Backstage passes",
+however the existing code only works for the hardcoded string "Backstage passes to a TAFKAL80ETC concert". So I followed
+this pattern for "Conjured" items and hardcoded the string "Conjured Mana Cake".
+
+
 Hi and welcome to team Gilded Rose.
 
 As you know, we are a small inn with a prime location in a prominent city ran
